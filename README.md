@@ -1,4 +1,4 @@
-# Simple MDoc runner for Mill
+# Simple Docusaurus runner for Mill
 
 This plugin provides a mill module that allows to build the project web site using 
 [Docusaurus 2](https://docusaurus.io) as a static content generator. Even though it is 
